@@ -1,2 +1,2 @@
-# INTERNSHIP_DIGITAL-SKOLA
+# INTERNSHIP
 Donator Segmentation and Targeted Propensity Model
